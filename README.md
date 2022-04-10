@@ -1,2 +1,3 @@
 # DEAP-EEG-Emotion-Analyse-and-Classify
-Emotion Analyse
+Simply emotion analyse and classify using EEG data based on DEAP dataset, using python and sklearn.
+简单的EEG脑电数据情感分析，使用python个DEAP数据集。
